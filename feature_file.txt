@@ -1,12 +1,5 @@
-
-Fortgeschrittene Konzepte der Versionskontrolle
+rtgeschrittene Konzepte der Versionskontrolle
 
 
 Ich habe es updated nur für die new_feature Branch diesmal 
 nicht für die main Branch.
-  
-
-
-
-
-     Conflict	Conflict	Conflict	Conflict	Conflict	Conflict
